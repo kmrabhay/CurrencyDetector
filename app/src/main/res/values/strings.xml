@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Currency Detector</string>
+    <string name="network_request">Please check network connection</string>
+
+</resources>
